@@ -63,6 +63,9 @@ HOI4（钢铁雄心4）
 ![444](https://github.com/user-attachments/assets/31e61e30-75b8-475c-9b3d-cb6005f2f7f9)
 ![666](https://github.com/user-attachments/assets/6784ee92-4577-4084-b721-477ee9370c94)
 
+人物关系也在这几年里修改过尽量接近历史
+![111](https://github.com/user-attachments/assets/6bacac9b-cf9a-4bc2-b5d1-738185652edd)
+
 时间设定
 =======
 这个剧本我的实际时间设定应该是在1931-1935年之间，在势力范围上面，张学良仍然在地图东北区域，上方为日军，下方为冯玉祥军势，日本军势在修整1年左右的时间就会南下
@@ -78,15 +81,14 @@ HOI4（钢铁雄心4）
 到了西北地区，因为是以后东北军的寄宿之地，所以是《松花江上》，酝酿着思念沦陷的故土，思念家乡父老的情绪，以及抗日救亡，打回东北去的思想
 丰富多彩，希望大家喜欢
 
-安装
-===
+安装方法
+=======
+
 不需要，解压之后就能玩
 
 游戏默认快捷方式设定了C:\#shenh这个路径，所以解压后你的路径应该是这样的
 
-
 ![image](https://github.com/user-attachments/assets/ecbd286d-ff9c-473c-9a9f-8ae0b3fa5226)
-
 
 然后到【三国志X多功能修改器】目录下运行san10这个快捷方式就直接可以玩了
 
@@ -116,5 +118,14 @@ https://www.youtube.com/watch?v=LZulZfv4J7w
 
 下载
 ====
+https://drive.google.com/file/d/1tX93zgIBY28-KQP11e15pbbajlLYrMSM/view?usp=sharing
 
-未完。。。
+
+Donation
+========
+
+如果这款 MOD 让您感到开心，或者在游戏中感受到了不同的游戏体验，欢迎通过支付宝打赏支持我，金额多少都没关系，您的认可就是我最大的动力！
+
+![image](https://github.com/user-attachments/assets/a7826aa3-9675-44a8-a051-d57e8007018d)
+
+
