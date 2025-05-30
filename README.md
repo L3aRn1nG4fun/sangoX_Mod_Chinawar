@@ -111,6 +111,10 @@ HOI4（钢铁雄心4）
 =======
 
 1. 开局
+
+[![Watch the video](https://img.youtube.com/vi/LZulZfv4J7w/maxresdefault.jpg)](https://www.youtube.com/watch?v=LZulZfv4J7w)
+
+
 https://www.youtube.com/watch?v=LZulZfv4J7w
 
 
