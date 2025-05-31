@@ -57,7 +57,9 @@ HOI4（钢铁雄心4）
 
 ![5555](https://github.com/user-attachments/assets/aa76dcad-d82a-4071-9335-bdd7022bb351)
 
-游戏里能改的图我也改了
+![222](https://github.com/user-attachments/assets/450c33c8-98f8-4843-9701-983549b19d0a)
+
+游戏里能找到的图我也改了，比较郁闷的是找不到会议，宫殿，酒馆，家等场所的图。
 ![333](https://github.com/user-attachments/assets/5f6fd747-0a0c-4af9-a0b7-6be7f2be78da)
 ![444](https://github.com/user-attachments/assets/31e61e30-75b8-475c-9b3d-cb6005f2f7f9)
 ![666](https://github.com/user-attachments/assets/6784ee92-4577-4084-b721-477ee9370c94)
@@ -91,7 +93,7 @@ HOI4（钢铁雄心4）
 
 不需要，解压之后就能玩
 
-游戏默认快捷方式设定了C:\#shenh这个路径，所以解压后你的路径应该是这样的
+游戏默认快捷方式设定了C:\\#shenh这个路径，所以解压后你的路径应该是这样的
 
 ![image](https://github.com/user-attachments/assets/ecbd286d-ff9c-473c-9a9f-8ae0b3fa5226)
 
@@ -106,7 +108,7 @@ HOI4（钢铁雄心4）
 如果你的win10/11不能运行
 =======================
 
-我通过回忆告诉你
+这个跟MOD剧本无关。
 在【Guogong10PK】目录下运行san10pkregsetup
 还有，在【三国志X多功能修改器】目录下面还有一个san10WindowsPatch.reg看能否帮到您
 
@@ -122,7 +124,11 @@ HOI4（钢铁雄心4）
 https://www.youtube.com/watch?v=LZulZfv4J7w
 
 
-3. 攻城战
+2. 攻城战
+
+[![Watch the video](https://img.youtube.com/vi/8Fz0KitwJNM/maxresdefault.jpg)](https://www.youtube.com/watch?v=8Fz0KitwJNM)
+
+https://youtu.be/8Fz0KitwJNM
 
 
 下载
@@ -141,8 +147,10 @@ https://drive.google.com/file/d/1tX93zgIBY28-KQP11e15pbbajlLYrMSM/view?usp=shari
 
 Donation
 ========
-如果这歌三国志10的MOD让您玩得开心，或者在游戏中感受到了不同的游戏体验，欢迎通过paypal支持我，金额多少没关系，您的认可就是我最大的动力！
+如果这歌三国志10的MOD让您玩得开心，或者在游戏中感受到了不同的游戏体验，欢迎通过paypal或alipay来支持我，金额多少没关系，您的认可就是我最大的动力！
 https://paypal.me/L3aRn1nG4fun
+<img src="https://github.com/user-attachments/assets/a385ff61-0fe4-4b36-af09-8f687f02a29c" width="100" height="100"/>
+
 你也可以在youtube视频下留言发表您的游戏体验！
 
 最后感谢KOEI做出了这么优秀的作品，能够如此经久不衰。
